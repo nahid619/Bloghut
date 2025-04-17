@@ -1,0 +1,29 @@
+📌 Project Details
+Key Features:
+
+User Authentication: Implemented secure registration and login functionality using PHP sessions for access control.
+
+Blog Management: Developed a full CRUD system for blog posts and categories with dynamic content display.
+
+Admin Dashboard: Built a centralized panel for managing blog content, users, and categories with options to add, edit, or delete records.
+
+Contact System: Integrated a contact form allowing users to send messages to the admin, with storage for later review.
+
+Database Management: Utilized MySQL to store and retrieve data related to users, blog posts, categories, and messages efficiently.
+
+Responsive Design: Designed a clean, user-friendly interface that adapts to mobile, tablet, and desktop screens using modern CSS.
+
+
+
+📌 Project Details
+User Authentication: Secure login & registration using PHP sessions.
+
+Blog System: Create, edit, and display posts with category filtering.
+
+Admin Dashboard: Manage posts, users, and categories from one panel.
+
+Contact Form: Users can send messages; admins can view them.
+
+MySQL Database: Efficient storage of users, blogs, and contact data.
+
+Responsive Design: Mobile-friendly layout using modern CSS.
